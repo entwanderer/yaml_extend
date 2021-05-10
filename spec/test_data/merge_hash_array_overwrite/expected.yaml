@@ -1,0 +1,7 @@
+dog:
+  - breed: golden
+    traits:
+    - name: friendly
+    - name: happy
+    - name: smart
+    - name: strong
